@@ -3,7 +3,7 @@
 
 
 
-## 🎨 Part 1: Imaging Technique Inspiration
+## Part 1: Imaging Technique Inspiration
 
 After researching the background of *Broadway Boogie Woogie* by Piet Mondrian, I discovered that its title was inspired by a style of jazz music known as Boogie Woogie. This connection between visual rhythm and sound led me to explore other artistic works that visualize music.
 
@@ -53,7 +53,7 @@ The following functions and techniques will be essential:
 
 This implementation draws on the interaction logic of Anders Lind’s *LINES* installation, while incorporating smooth visual flow using noise and unpredictability using randomness—both essential to creating a jazz-like digital experience.
 
-🔗 Related references:
+Related references:
 - [Sound library in Processing](https://processing.org/reference/libraries/sound/index.html)
 - [tiles motion 240503](https://openprocessing.org/sketch/2259231)
 
