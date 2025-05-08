@@ -1,12 +1,20 @@
 # Yliu5125_9103_tut03_02
-# Quiz 8: Design Research – Imaging + Coding Techniques
+# Quiz 9: Design Research – Imaging + Coding Techniques
+
+
 
 ## 🎨 Part 1: Imaging Technique Inspiration
 
-I was inspired by the **mirror dimension scenes in *Doctor Strange*** (2016), where cityscapes fold, rotate, and layer dynamically in impossible ways. The kaleidoscopic transformation of architecture creates a compelling and immersive visual style. For my assignment, I want to incorporate the idea of **spatial fragmentation and reflection** to explore themes of disorientation and multiple perspectives. This technique can visually enhance the experience by breaking the usual sense of space, making users reimagine the digital interface or space they interact with.
+After researching the background of *Broadway Boogie Woogie* by Piet Mondrian, I discovered that its title was inspired by a style of jazz music known as Boogie Woogie. This connection between visual rhythm and sound led me to explore other artistic works that visualize music.
 
-![Doctor Strange Scene 1](https://github.com/Lyx000023/Yliu5125_9103_tut03_02/blob/main/Original%20work%20concept.png?raw=true)
-![Doctor Strange Scene 2](https://www.youtube.com/watch?v=DstjgGd7mds&list=PL1z0znh8tCnlROhZw7ejf_rkw9QJMMZ1U)
+One of the most inspiring examples is *LINES*, an interactive sound installation created in 2016 by Swedish composer Anders Lind. In this exhibition, colored lines are fixed on walls, floors, and suspended from ceilings, embedded with sensors and electronics to form three types of musical instruments. The audience can trigger harmonies simply by moving under or interacting with the lines—no musical experience required.
+
+Both Mondrian's painting and LINES express music visually, but LINES also transforms interaction into musical output. This inspired me to consider: what if I use digital media to do the same? Could I turn a static painting like *Broadway Boogie Woogie* into a reactive interface, where hovering the mouse or pressing keys over different colored blocks generates chords? By borrowing the interaction model from LINES, I aim to explore how abstract art can be transformed into an audiovisual experience.
+
+
+
+![Mondrian's Broadway Boogie Woogie](https://github.com/Lyx000023/Yliu5125_9103_tut03_02/blob/main/Original%20work%20concept.png?raw=true)
+![LINES interaction](https://github.com/Lyx000023/Yliu5125_9103_tut03_02/blob/main/inspiration.png?raw=true)
 
 ----
 
