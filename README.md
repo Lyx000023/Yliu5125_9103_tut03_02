@@ -5,7 +5,7 @@
 
 I was inspired by the **mirror dimension scenes in *Doctor Strange*** (2016), where cityscapes fold, rotate, and layer dynamically in impossible ways. The kaleidoscopic transformation of architecture creates a compelling and immersive visual style. For my assignment, I want to incorporate the idea of **spatial fragmentation and reflection** to explore themes of disorientation and multiple perspectives. This technique can visually enhance the experience by breaking the usual sense of space, making users reimagine the digital interface or space they interact with.
 
-![Doctor Strange Scene 1](https://i.imgur.com/y4VQthK.jpg)
+![Doctor Strange Scene 1](p5-project1/assets/Original work concept.png)
 ![Doctor Strange Scene 2](https://i.imgur.com/UsmIBZ4.jpg)
 
 ---
