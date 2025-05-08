@@ -8,7 +8,7 @@ I was inspired by the **mirror dimension scenes in *Doctor Strange*** (2016), wh
 ![Doctor Strange Scene 1](https://github.com/Lyx000023/Yliu5125_9103_tut03_02/blob/main/Original%20work%20concept.png?raw=true)
 ![Doctor Strange Scene 2](https://i.imgur.com/UsmIBZ4.jpg)
 
----
+----
 
 ## 💻 Part 2: Coding Technique Exploration
 
